@@ -1,0 +1,116 @@
+.nav-ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+
+@font-face {
+    font-family: "poppins-unilab";
+    src: url(../Fonts/Poppins-MediumItalic.ttf);
+}
+@font-face {
+    font-family: "open-sans";
+    src: url(../Fonts/OpenSans-MediumItalic.ttf);
+}
+.home{
+    margin-left: 537px;
+}
+li{
+    display: inline;
+    font-family: "poppins-unilab";
+}
+.about, .contact{
+    margin-left: 66px;
+}
+header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+.div{
+    width: 333px;
+    height: 487px;
+    border: 1px solid black;
+    padding: 11px;
+    display: inline-block;
+}
+.main-title{
+    margin-top: 5px;
+}
+.main-description{
+    margin-top: 13px;
+    font-family: "poppins-unilab";
+}
+.see-more{
+    margin-top: 35px;
+    margin-left: 224px;
+}
+section{
+    margin-top: 160px;
+    margin-bottom: 237px;
+}
+.first{
+    margin-left: 126px;
+}
+.second{
+    margin-left: 112px;
+}
+.third{
+    margin-left: 90px;
+}
+img{
+    width: 100%;
+}
+.contact-title{
+    text-align: center;
+    margin-top: 183px;
+    font-size: 40px;
+    color: #7D0000;
+}
+.contact-p{
+    margin-top: 117px;
+    margin-left: 175px;
+    font-size: 25px;
+    line-height: 34px;
+    font-family: "open-sans";
+}
+.about-title{
+    text-align: center;
+    margin-top: 183px;
+    font-size: 40px;
+    color: #7D0000;
+}
+.about-p{
+    margin-top: 117px;
+    margin-left: 175px ;
+    margin-right: 490px;
+    font-size: 25px;
+    font-family: "open-sans";
+}
+.p-1{
+    font-weight: 600;
+}
+.p-2{
+margin-top: 108px;
+font-weight: 400;
+}
+.test-1, .test-2, .test-3{
+    float: left;
+}
+.test-1{
+    margin-left: 131px;
+}
+.test-2{
+    margin-left: 187px;
+}
+.test-3{
+    margin-left: 162px;
+}
+.g-title{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 72px;
+}
